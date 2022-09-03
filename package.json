@@ -1,0 +1,9 @@
+{
+  "name": "azure-functions-purescript",
+  "type": "module",
+  "dependencies": {
+    "azure-functions-core-tools": "^4.0.4736",
+    "purescript": "^0.15.4",
+    "spago": "^0.20.9"
+  }
+}
